@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Chinta Bala Sai Reddy!
 
-🚀 Aspiring Data Analyst | 📊 Passionate about Data Visualization | 🌱 Learning and Growing Every Day
+🚀 Aspiring Data Analyst & Business Analyst | 📊 Passionate about Data Visualization | 🌱 Learning and Growing Every Day
 
 ---
 
