@@ -1,52 +1,67 @@
-# Hi there 👋 I'm Chinta Bala Sai Reddy!
+# 👋 Hi there, I'm Chinta Bala Sai Reddy!
 
-🚀 Aspiring Data Analyst & Business Analyst | 📊 Passionate about Data Visualization | 🌱 Learning and Growing Every Day
+🎯 **Aspiring Machine Learning Engineer** | 🤖 AI & Data Science Enthusiast  
+📊 Power BI & Python Developer | 🌱 Lifelong Learner
 
 ---
 
 ## 👨‍💻 About Me
-I'm a third-year B-Tech student specializing in Artificial Intelligence and Data Science at Vishnu Institute of Technology, Bhimavaram, India. I love turning raw data into actionable insights and crafting compelling visual stories that empower decision-making.
+
+I'm a third-year B.Tech student in **Artificial Intelligence and Data Science** at Vishnu Institute of Technology, Bhimavaram. I’m passionate about building intelligent systems, solving real-world problems through data, and creating compelling visualizations that drive insights and innovation.
 
 ---
 
-## 🔭 What I'm Working On
-- Developing dynamic dashboards using **Power BI** to visualize key business metrics.
-- Gaining expertise in **Python**, **SQL**, and **DAX** for advanced data analysis and visualization.
-- Exploring new trends in **Machine Learning** and **Statistical Analysis**.
+## 🚀 Current Focus
+
+- 🤖 Building ML models using **Python** and **scikit-learn**
+- 📊 Creating interactive dashboards using **Power BI** and **DAX**
+- 🔍 Practicing **SQL**, **EDA**, and **Feature Engineering**
+- 🧠 Exploring **Generative AI** through training at **Gradious Technologies**
 
 ---
 
-## 🌱 What I'm Learning
-- Advanced concepts in **Data Science**, including **Time Series Analysis** and **Business Intelligence**.
-- Leveraging tools like **Pandas**, **NumPy**, and **Matplotlib** for data manipulation and visualization.
-- Continuous improvement in **Git** and **GitHub** for version control and collaboration.
+## 📚 What I’m Learning
+
+- **Regression & Classification**, **Time Series Analysis**, and **Model Optimization**
+- **Pandas**, **NumPy**, **Matplotlib**, **Jupyter Notebooks**
+- Version control with **Git** and **GitHub**
 
 ---
 
-## 🏆 Projects
-### **Adidas Sales Analysis** (November 2024)
-- Analyzed a dataset of 9,648 rows to uncover actionable insights about regional performance and product profitability.
-- Designed interactive dashboards using **Power BI** with advanced visualizations and filters.
-- Applied **DAX functions** to calculate profitability metrics and identify trends like gender-based preferences.
+## 📌 Notable Projects
+
+### 🔹 Smart Deal Recommendations for Commuters *(May 2025)*
+- Cleaned 12,000+ records, handled missing values & outliers using Isolation Forest
+- Applied EDA and trained **Random Forest** & **XGBoost** (81% accuracy)
+
+### 🔹 Appliance Energy Consumption Prediction *(June 2025)*
+- Filtered 19,000+ energy records, performed correlation-based feature reduction
+- Trained regression models; achieved **R² = 0.668** with Random Forest
+
+### 🔹 Adidas Sales Analysis *(Dec 2024)*
+- Analyzed 9,600+ sales records using **Power BI**
+- Created dashboards using **DAX** and **Power Query** to uncover business insights
 
 ---
 
-## 💡 Skills
-- **Programming:** Python, SQL  
-- **Tools & Frameworks:** Power BI, Pandas, NumPy, Matplotlib, DAX, Excel  
-- **Data Science:** Data Cleaning, Exploratory Data Analysis, Time Series Analysis  
-- **Other Skills:** Data Visualization, Dashboard Design, Team Collaboration, Analytical Thinking
+## 🛠 Skills
+
+- **Languages:** Python, SQL  
+- **Libraries & Tools:** Pandas, NumPy, scikit-learn, Matplotlib, Power BI, MySQL  
+- **Technologies:** EDA, Machine Learning, DAX, Power Query  
+- **Soft Skills:** Problem-Solving, Communication, Teamwork, Leadership
 
 ---
 
-## 📫 Let's Connect!
-- 📧 [chintabalasaireddy@gmail.com](mailto:chintabalasaireddy@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/chinta-bala-sai-reddy-14ba08249)  
-- 🖥️ [GitHub](https://github.com/Balasaireddy7)  
+## 📫 Connect with Me
+
+- 📧 Email: [chintabalasaireddy@gmail.com](mailto:chintabalasaireddy@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/chinta-bala-sai-reddy-14ba08249](https://www.linkedin.com/in/chinta-bala-sai-reddy-14ba08249)  
+- 🖥️ GitHub: [github.com/Balasaireddy7](https://github.com/Balasaireddy7)
 
 ---
 
-## ⚡ Fun Fact
-When I'm not diving into datasets or designing dashboards, I enjoy photography and editing – capturing the world through my lens and crafting creative edits.
+## 📸 Fun Fact
 
----
+When I'm not exploring data and models, I'm behind a camera lens — capturing stories through photography and editing for my college's **AIVERSE Club**.
+
